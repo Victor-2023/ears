@@ -1,0 +1,1 @@
+это 1 версия файл profile в репе s-clone в ветке master
